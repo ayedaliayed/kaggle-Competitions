@@ -1,2 +1,2 @@
 # kaggle-Competitions
-some code of Kaggle Comptitions and achive good score on them
+some code of Kaggle Comptitions and achive good score in them
